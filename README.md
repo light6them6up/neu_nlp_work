@@ -101,3 +101,5 @@ BERT模型预训练的过程使用的是Masked language model(掩码语言模型
 
 ![](https://github.com/light6them6up/nlp_work/blob/main/images/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
+
+
