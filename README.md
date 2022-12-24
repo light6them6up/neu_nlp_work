@@ -94,7 +94,7 @@ BERT模型预训练的过程使用的是Masked language model(掩码语言模型
 
 ![](https://github.com/light6them6up/nlp_work/blob/main/images/GONGSHI.png)
 
-式中$p(xi)$ 表示样本的真实分布，$q(xi)$表示模型所预测的分布。
+式中p(xi) 表示样本的真实分布，q(xi)表示模型所预测的分布。
 
  ## 运行结果：
 
